@@ -1,0 +1,6 @@
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\bin\x86\Debug\TestProject.exe
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\bin\x86\Debug\TestProject.pdb
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\obj\x86\Debug\TestProject.exe
+C:\Users\timothy.robertson\Test-Project\TestProject\TestProject\TestProject\obj\x86\Debug\TestProject.pdb

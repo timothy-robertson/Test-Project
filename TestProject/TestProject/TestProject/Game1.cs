@@ -16,8 +16,8 @@ namespace TestProject
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
-        GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;
+        private GraphicsDeviceManager graphics;
+        private SpriteBatch spriteBatch;
 
         public Game1()
         {
@@ -81,7 +81,8 @@ namespace TestProject
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            //Never again shall cornflower blue be used in this code.
+            GraphicsDevice.Clear(Color.Azure);
 
             // TODO: Add your drawing code here
 
