@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Pixel.xnb</Output>
-      <Time>2012-02-07T21:45:33.577845-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>Background.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Background.xnb</Output>
-      <Time>2012-02-08T09:20:03.79007-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>Jet.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Jet.xnb</Output>
-      <Time>2012-02-08T09:20:03.7920701-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Jet.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>PaperAirplane.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\PaperAirplane.xnb</Output>
-      <Time>2012-02-08T09:20:03.7990705-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\PaperAirplane.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>SmallAircraft.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\SmallAircraft.xnb</Output>
-      <Time>2012-02-08T09:20:03.8010707-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\SmallAircraft.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>Cursor.png</Source>
@@ -52,17 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Cursor.xnb</Output>
-      <Time>2012-02-08T09:31:31.2103882-05:00</Time>
-    </Item>
-    <Item>
-      <Source>MenuFont.spritefont</Source>
-      <Name>MenuFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\MenuFont.xnb</Output>
-      <Time>2012-02-08T09:23:04.6904169-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>BackgroundBlank.png</Source>
@@ -70,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\BackgroundBlank.xnb</Output>
-      <Time>2012-02-08T11:07:39.1732968-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\BackgroundBlank.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <Item>
       <Source>Clouds.png</Source>
@@ -79,8 +70,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Clouds.xnb</Output>
-      <Time>2012-02-08T11:07:39.1772971-05:00</Time>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\Clouds.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2012-02-08T12:16:57.5798376-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -88,39 +88,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPattern\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-04:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2011-01-18T14:41:24.4284141-05:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-27T13:59:46.1202182-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

@@ -105,6 +105,10 @@ namespace DecoratorPattern
             else
             {
                 UpdateGame(gameTime);
+                if (plane != null && plane.GetPosition() != null)
+                {
+                    this.Window.Title = "Distance: " + plane.GetPosition().X;
+                }
             }
 
             base.Update(gameTime);

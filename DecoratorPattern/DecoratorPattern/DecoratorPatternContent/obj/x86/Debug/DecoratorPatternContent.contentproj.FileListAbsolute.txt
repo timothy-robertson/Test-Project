@@ -1,1 +1,2 @@
 C:\Users\Tim\documents\visual studio 2010\Projects\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\timothy.robertson\Test-Project\DecoratorPattern\DecoratorPattern\DecoratorPatternContent\obj\x86\Debug\ResolveAssemblyReference.cache
